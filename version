@@ -1,0 +1,13 @@
+v0.0:
+	default echo server-client
+	can send right message (clear message buffer after each send)
+v0.1:
+	add function 'login' 'logout'
+		server can import player account
+		server can identify account that client enter
+v0.2:
+	add function 'help'
+	add function 'logout'
+v0.3:
+	server can update player status & relating information
+	add function 'ls'
